@@ -1,4 +1,6 @@
-# Armaan Arellano
-Honors Computer Science and Accounting at University of Connecticut
+# Hi There, I'm Armaan Arellano
 
-armaanarellano.com
+Honors Computer Science & Accounting at the University of Connecticut
+
+[<kbd> <br> View My Portfolio Website <br> </kbd>](https://www.armaanarellano.com) [<kbd> <br> My Projects <br> </kbd>](https://www.armaanarellano.com/projects)
+
