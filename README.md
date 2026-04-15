@@ -2,5 +2,5 @@
 
 Honors Computer Science & Accounting at the University of Connecticut
 
-[<kbd> <br> View My Portfolio Website <br> </kbd>](https://www.armaanare.com) [<kbd> <br> My Projects <br> </kbd>](https://www.armaanare.com/projects)
+[<kbd> <br> View My Portfolio Website <br> </kbd>]([https://www.armaanare.com](https://armaanare.com/#home)) [<kbd> <br> My Projects <br> </kbd>]([https://www.armaanare.com/projects](https://armaanare.com/#projects))
 
