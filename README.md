@@ -1,6 +1,8 @@
-# 👋🏼 Hi There, I'm Armaan Arellano 
+# 👋🏼 Hi, I'm Armaan Arellano
 
-Honors Computer Science & Accounting at the University of Connecticut
+**Honors Computer Science & Accounting Student**  
+University of Connecticut
 
-[<kbd> <br> View My Portfolio Website <br> </kbd>]([https://www.armaanare.com](https://armaanare.com/#home)) [<kbd> <br> My Projects <br> </kbd>]([https://www.armaanare.com/projects](https://armaanare.com/#projects))
-
+[<kbd> <br> View My Portfolio <br> </kbd>](https://armaanare.com/#home)
+&nbsp;&nbsp;
+[<kbd> <br> View My Projects <br> </kbd>](https://armaanare.com/#projects)
