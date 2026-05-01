@@ -6,3 +6,5 @@ University of Connecticut
 [<kbd> <br> View My Portfolio <br> </kbd>](https://armaanare.com/#home)
 &nbsp;&nbsp;
 [<kbd> <br> View My Projects <br> </kbd>](https://armaanare.com/#projects)
+&nbsp;&nbsp;
+[<kbd> <br> LinkedIn <br> </kbd>](https://linkedin.com/in/armaan-are)
