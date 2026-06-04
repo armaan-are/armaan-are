@@ -1,4 +1,4 @@
-# 👋🏼 Hi, I'm Armaan Arellano
+#Hi, I'm Armaan Arellano
 
 **Honors Computer Science & Accounting Student**  
 University of Connecticut
